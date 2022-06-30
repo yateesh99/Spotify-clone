@@ -1,0 +1,11 @@
+.search-container {
+    float: right;
+  }
+input[type = text], [type = submit]{
+    border-width: 0ch;
+    margin: 5px;
+}
+
+.navbar-brand{
+    font-weight: bold;
+}
